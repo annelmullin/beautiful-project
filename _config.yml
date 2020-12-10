@@ -8,16 +8,16 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://annelmullin.github.io/project/"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: Annie Mullin's Project Page
+title: Annie Mullin's Personal Page
 
 # Short description of your site
-description: I am a 21 year old Public Health and International Affairs double major
+description: I am a 21 year old Public Health and International Affairs double major, this site will help you learn a little bit more about me!
 
 # --- Navigation bar options --- #
 
@@ -35,7 +35,7 @@ navbar-links:
   Example pages:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+  About me: "https://www.linkedin.com/in/annie-mullin/"
 
 # --- Footer options --- #
 
@@ -57,7 +57,7 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
   
 share-links-active:
