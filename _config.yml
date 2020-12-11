@@ -28,10 +28,6 @@ description: I am a 21 year old Public Health and International Affairs double m
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   About me: "https://www.linkedin.com/in/annie-mullin/"
 
 # --- Footer options --- #
