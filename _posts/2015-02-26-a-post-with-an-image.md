@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Family zoom
-subtitle: Subtitle goes here
+title: Family Zoom
+subtitle: B-day Surprise
 bigimg: Screen Shot 2020-12-08 at 5.47.18 PM.png
 ---
 
