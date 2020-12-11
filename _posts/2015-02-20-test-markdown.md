@@ -1,27 +1,7 @@
 ---
 layout: post
-title: Example how to use markdown
-subtitle: Each post also has a subtitle
+title: Recent Research
+subtitle: Public Health
 ---
 
-You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and Jekyll will automatically convert it to a nice webpage.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a code chunk:
-
-~~~
-x <- 5 + 10
-print(x)
-~~~
-
-And here is some code with syntax highlighting
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3);
-```
+Recently I have been studying the decades old history of water privitization in Latin America, equally a public health and human rights issue. Im enjoying educating myself more on the subject and anaylzying how NGOs and world government's have tried to handle the situation in the past. 
